@@ -1,4 +1,4 @@
-## 🌍 Project 4: Bhati Desert Camp Tourism Website
+## 🌍 Bhati Desert Camp Tourism Website
 
 🔗 **Live Demo:** [https://www.bhatidesertcampsam.com/](https://www.bhatidesertcampsam.com/)
 
